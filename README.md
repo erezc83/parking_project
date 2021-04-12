@@ -2,12 +2,16 @@
 
 **Prerequisites:**
 1. python 3.7
-  1.1. To download and install Python, visit the official website of Python: https://www.python.org/downloads/ and choose the version.
-  1.2. How to install Python on windows, you can use the website https://www.guru99.com/how-to-install-python.html
+  1.1. To download and install Python, visit the official website of Python: 
+  https://www.python.org/downloads/ and choose the version.
+  1.2. How to install Python on windows, you can use the website: 
+  https://www.guru99.com/how-to-install-python.html
 
 2. mysql workbrench 8.0.23
-  2.1. To download and install mySQL, visit the official website of mySQL: https://dev.mysql.com/downloads/installer/
-  2.2. How to install mySQL on windows, you can use: https://www.youtube.com/watch?v=WDEyt2VHpj4
+  2.1. To download and install mySQL, visit the official website of mySQL: 
+  https://dev.mysql.com/downloads/installer/
+  2.2. How to install mySQL on windows, you can use: 
+  https://www.youtube.com/watch?v=WDEyt2VHpj4
 
 
 **Please follow the next steps:**
@@ -45,7 +49,7 @@
       from parking;
       
 6. **program limitations:**
-  6.1 the orc api is מתקשה some time with Hebrew letters.
-  6.2 in order to overcome it the program is relates to the Hebrew letters “מ” as the English letter as "n”.
+  6.1 The orc api is difficulty some time with Hebrew letters.
+  6.2 In order to overcome it the program is relates to the Hebrew letters “מ” as the English letter as "n”.
 
 
