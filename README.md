@@ -16,6 +16,7 @@
 
 **Please follow the next steps:**
 1. Download all the files to the same locution (same folder).
+  1.1. Save the 2 images in a folder named "pic"
 
 2. Execute pip -r requirement.txt
 
@@ -36,11 +37,11 @@
         AUTO_INCREMENT=1;
   3.6. Press "run" (the table will be created).
 
-4. execute main.py file.
-   Where there are two ways to execute the program.
-  4.1. Using cmd: go to the main.py locution and execute python main.py.
-  4.2. Execute main.py by using any python supporting. 
-       for example: PyCharm.
+4. Execute main.py file.
+    Where there are two ways to execute the program.
+    4.1. Using cmd: go to the main.py locution and execute python main.py.
+    4.2. Execute main.py by using any python supporting. 
+         for example: PyCharm.
        
 5. Checking the DB:
   5.1 Open new query.
